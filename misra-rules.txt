@@ -1,0 +1,8 @@
+Appendix A Summary of guidelines
+Rule 3.1 Required
+R3.1 Rule description
+Rule 4.1 Required
+Rule 21.3 Required
+R21.3 Rule description
+Rule 21.4
+R21.4 Rule description
